@@ -1,8 +1,8 @@
-# Task 5 � Pseudocoding
+# Pseudocoding
 
 ## What this repository is
 
-This repository contains all deliverables for Task 5 of Assignment 2.
+This repository contains all deliverables.
 Organised into three parts:
 
 | Folder | Contents |
